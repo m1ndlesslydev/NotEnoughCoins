@@ -5,10 +5,6 @@
 
 A SkyBlock Flipping Mod.
 
-Discord - https://discord.gg/b3JBsh8fEd<br/>
-Premium - https://payhip.com/b/0MuhN<br/>
-CoinsClient - https://github.com/mindlesslydev/CoinsClient
-
 - `/nec` - Shows the config GUI
 - `/nec help` - Shows the help message containing all the subcommands and their usage
 - `/nec toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
